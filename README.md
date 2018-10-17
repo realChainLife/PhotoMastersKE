@@ -1,2 +1,2 @@
-# photomasters
+# PhotoMastersKE
 revamped website
