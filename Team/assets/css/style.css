@@ -393,10 +393,10 @@ Button
 
 }
 .btn:hover {
-    background-color:#f4720a;
+    background-color:#4b8ffe;
     color: #fff;
     text-decoration: none;
-    border: 1px solid #f4720a;
+    border: 1px solid #4b8ffe;
 }
 
 .btn-primary {
@@ -1132,7 +1132,7 @@ button.btn-md:hover {
     background-color: transparent;
     color: #4b8ffe;
     text-decoration: none;
-    border: 0px solid #f4720a;
+    border: 0px solid #4b8ffe;
 }
 .portfolio .toolbar{
     margin-bottom:50px;
