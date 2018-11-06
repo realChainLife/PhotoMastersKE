@@ -368,8 +368,8 @@ Button
 .btn-primary.disabled,
 .btn-primary.disabled:hover {
     color: #ffffff;
-    background-color: #5e9a28;
-    border-color: #5e9a28;
+    background-color: #fefefe;
+    border-color: #fefefe;
 }
 
 
@@ -406,13 +406,13 @@ Button
 }
 
 .btn_news_color{
-    color:#5e9a28;
-    border-color: #5e9a28;
+    color:#fefefe;
+    border-color: #fefefe;
 }
 
 .btn-md{
-    border:1px solid #5e9a28;
-    color:#5e9a28;
+    border:1px solid #fefefe;
+    color:#fefefe;
     padding: 10px 45px 10px 0px;
 }
 
@@ -497,7 +497,7 @@ Extra height css
     padding: 40px 0;
 }
 h1 span {
-    color: #5e9a28;
+    color: #fefefe;
     font-weight: 400;
 }
 
