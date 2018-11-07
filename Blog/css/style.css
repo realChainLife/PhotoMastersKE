@@ -46,13 +46,13 @@ body {
 }
 
 a {
-  color: #1d2f3b;
+  color: #4b8ffe;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #1d2f3b;
+  color: #4b8ffe;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #1d2f3b;
+  background: #4b8ffe;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #1d2f3b;
+  background: #4b8ffe;
 }
 
 ::selection {
   color: #fff;
-  background: #1d2f3b;
+  background: #4b8ffe;
 }
 
 .fh5co-nav .top-menu {
@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 50%;
 }
 .fh5co-nav #fh5co-logo a span {
-  color: #1d2f3b;
+  color: #4b8ffe;
 }
 .fh5co-nav #fh5co-logo a small {
   font-family: "Josefin Slab", Arial, serif;
@@ -248,7 +248,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a span {
-  background: #1d2f3b;
+  background: #4b8ffe;
   padding: 4px 10px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -615,7 +615,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #1d2f3b;
+  color: #4b8ffe;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -780,7 +780,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(0, 0, 0, 0.3);
 }
 .fh5co-blog .blog-text span.comment a i {
-  color: #1d2f3b;
+  color: #4b8ffe;
   padding-left: 7px;
 }
 .fh5co-blog .blog-text h3 {
@@ -1208,9 +1208,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #1d2f3b;
+  background: #4b8ffe;
   color: #fff;
-  border: 2px solid #1d2f3b;
+  border: 2px solid #4b8ffe;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #253d4c !important;
@@ -1218,11 +1218,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #1d2f3b;
-  border: 2px solid #1d2f3b;
+  color: #4b8ffe;
+  border: 2px solid #4b8ffe;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #1d2f3b;
+  background: #4b8ffe;
   color: #fff;
 }
 
@@ -1352,7 +1352,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #1d2f3b;
+  border-color: #4b8ffe;
 }
 
 .row-pb-md {
