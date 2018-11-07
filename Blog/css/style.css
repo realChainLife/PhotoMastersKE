@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   content: '';
-  background: #fbf2eb;
+  background: #4b8ffe;
 }
 .fh5co-nav #fh5co-logo {
   font-size: 50px;
@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 0;
   width: 150px;
   height: 150px;
-  background: #fbf2eb;
+  background: #4b8ffe;
   content: "";
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -659,7 +659,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: -10px;
   right: 10px;
   content: '';
-  background: #fbf2eb;
+  background: #4b8ffe;
   z-index: -1;
 }
 .fh5co-heading p {
