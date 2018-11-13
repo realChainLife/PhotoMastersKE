@@ -112,23 +112,16 @@
                                         <div class="home_btn">
                                             <script language="javascript">
                                                 var popupWindow = null;
-                                                    function centeredPopup(url,winName,w,h,scroll){
-                                                        LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
-                                                        TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
-                                                        settings =
-                                                        'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
-                                                        popupWindow = window.open(url,winName,settings)
-                                                        }
-                                            </script>
-                                            <p><a href="https://www.quackit.com/javascript/examples/sample_popup.cfm" onclick="centeredPopup(this.href,'myWindow','700','300','yes');return false">Centered Popup</a></p>
-                                            <script type="text/javascript">
-                                                // Popup window code
-                                                function newPopup(url) {
-                                                    popupWindow = window.open(
-                                                        url,'popUpWindow','height=400,width=600,right=10,top=10,resizable=yes,scrollbars=yes,toolbar=no,menubar=no,location=no,directories=no,status=yes')
+                                                function centeredPopup(url,winName,w,h,scroll){
+                                                LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+                                                TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+                                                settings =
+                                                'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
+                                                popupWindow = window.open(url,winName,settings)
                                                 }
                                             </script>
-                                            <p><a href="JavaScript:newPopup('https://photomasters.co/join');" class="btn btn-default">JOIN</a></p>
+                                            <p><a href="https://www.quackit.com/javascript/examples/sample_popup.cfm" onclick="centeredPopup(this.href,'myWindow','700','300','yes');return false">Centered Popup</a></p>
+                                            
                                         </div>
                                     </div>
                                 </div>
